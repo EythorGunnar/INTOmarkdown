@@ -9,7 +9,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Ég setti upp Virtual Linux Mint box. Uppsetningin gekk mjög vel en mig þykir virtual vélin vera skrambi hæg. Það er eflaust hægt að bæta úr því með réttum stillingum en þetta dugði mér fyrir verkefnið.
 
-![Screenshot](/pic.png) "Þar sem ég er á virtual vél lét ég duga að taka screenshot af vélinni í gangi"
+![Screenshot](https://github.com/EythorGunnar/INTOmarkdown/blob/master/pic.png) Ég lét duga að taka screenshot af vélinni í gangi þar sem þetta er virtual vél og ekki mikið boot ferli til að taka mynd af."
 
 ## 2. Uppsetning á vim && git
 
