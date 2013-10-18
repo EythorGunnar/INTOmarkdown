@@ -15,13 +15,13 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
-Lítið um það að segja, ég keyrði þessar tvær skipanirnar sem fylgdu með í verkefna lýsingunni, tölvan sótti þá forritin og setti þau upp. Næst bjó ég til möppu fyrir git (../home/adminuser/Projects/git/) þar sem ég geymi forkið af INTOPrufa og INTOmarkdown í sitthvorri möppunni.
+Lítið um það að segja, ég keyrði þessar tvær skipanirnar sem fylgdu með í verkefnalýsingunni, tölvan sótti þá forritin og setti þau upp. Næst bjó ég til möppu fyrir git (../home/adminuser/Projects/git/) þar sem ég geymi forkið af INTOPrufa og INTOmarkdown í sitthvorri möppunni.
 
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
-Ég bjó til aðgang að síðunni, opnaði slóðina að svæði daníels og forkaði INTOPrufa. Síðan bjó ég til SSh lykil og tengdi hann við mitt svæði á Github.com. Næst cloneaði ég verkefnið sem ég var að forka, inn á vélina mína (git clone url). Ég opna .ccp skránna með VIM og bý til stutta cout skipun sem segir "Eythor Gunnar was here". Næst keyri ég "git commit -a -m "comment"" til að vista breytingarnar.
+Ég bjó til aðgang að síðunni, opnaði slóðina að svæði daníels og forkaði INTOPrufa. Síðan bjó ég til SSh lykil og tengdi hann við mitt svæði á Github.com. Næst cloneaði ég verkefnið sem ég var að forka, inn á vélina mína (git clone url). Ég opna .ccp skránna með VIM og bý til stutta cout skipun sem segir "Eythor Gunnar was here". Næst keyri ég "git commit -a -m "comment"" til að vista breytingarnar. Síðan sendi ég þær með git push origin master.
 
 [INTOPrufa](https://github.com/EythorGunnar/INTOPrufa/blob/master/NIM.cpp)
 
